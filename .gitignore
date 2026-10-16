@@ -1,0 +1,13 @@
+# Resultados de ejecución: solo se versiona el marcador
+output/*
+!output/.gitkeep
+
+# Configuración local de Claude Code
+.claude/settings.local.json
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vs/
+bin/
+obj/
